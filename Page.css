@@ -30,17 +30,7 @@
     padding: 3%;
   }
   
-  /* Headbutting/padding issue: this code doesn't work  */
-  /* section::before { 
-    display: block; 
-    content: " "; 
-    margin-top: -5.5rem; 
-    height: 5.5rem; 
-    visibility: hidden; 
-    pointer-events: none;
-  } */
-  
-  /* This doesn't help either but I added in because it makes the CTA section look better on my phone! */
+ 
   main {
     margin-top: 5.5rem;
   }
